@@ -1,0 +1,9 @@
+module Base
+{
+	model ApocalypseCoin
+	{
+		mesh = WorldItems/ApocalypseCoin,
+		texture = WorldItems/ApocalypseCoin,
+		scale = 1.0,
+	}
+}

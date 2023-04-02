@@ -1,0 +1,17 @@
+module ApocalypseTrading
+{
+    imports
+    {
+        Base
+    }
+
+    item ApocalypseCoin
+    {
+        DisplayCategory     =   Junk,
+        Weight	            =	0.001,
+        Type	            =	Normal,
+        DisplayName	        =	Apocalypse Coin,
+        Icon	            =	ApocalypseCoin,
+        WorldStaticModel    =   ApocalypseCoin,
+    }
+}
